@@ -1,32 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Privacy Policy - Transmed</title></head>
 
-<style>
-body {
-    font-family: Arial, sans-serif;
-    max-width: 900px;
-    margin: auto;
-    padding: 20px;
-    line-height: 1.7;
-    background: #f9f9f9;
-    color: #333;
-}
-h1, h2 {
-    color: #222;
-}
-h1 {
-    border-bottom: 2px solid #ddd;
-    padding-bottom: 10px;
-}
-section {
-    margin-bottom: 25px;
-}
-</style>
-</head>
 
 <body>
 
