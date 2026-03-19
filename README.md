@@ -1,70 +1,103 @@
+# Privacy Policy
 
+This Privacy Policy explains how Transmed ("Company", "we", "us", or "our") collects, uses, discloses, and protects your personal information when you access or use our website, mobile application, or online store powered by Shopify (collectively, the "Services").
 
-<body>
+By using our Services, you agree to the collection and use of information in accordance with this Privacy Policy.
 
-<h1>Privacy Policy</h1>
+---
 
-<p>This Privacy Policy explains how <strong>Transmed</strong> ("Company", "we", "us", or "our") collects, uses, discloses, and protects your personal information when you use our services.</p>
+## **Information We Collect**
 
-<section>
-<h2>Information We Collect</h2>
-<p><strong>Personal Information:</strong> Name, email, phone, address, account details, and order history. Payment data is handled by secure third-party providers.</p>
+### **Personal Information**
+We collect personal information that you voluntarily provide when you interact with our Services, including your name, email address, phone number, billing and shipping address, account credentials, and order history. Payment information is collected and processed securely by authorized third-party payment providers; we do not store full payment card details.
 
-<p><strong>Automatically Collected Information:</strong> IP address, browser, device info, usage data.</p>
+### **Automatically Collected Information**
+We automatically collect certain technical and usage information such as:
+- IP address  
+- Browser type  
+- Device identifiers  
+- Operating system  
+- Pages viewed and interaction data  
 
-<p><strong>Cookies:</strong> Used for functionality, analytics, and improving experience.</p>
-</section>
+### **Cookies**
+We use cookies to enable website functionality, enhance experience, analyze traffic, and personalize content. You may disable cookies, but some features may not work properly.
 
-<section>
-<h2>How We Use Your Information</h2>
-<ul>
-<li>Process orders and transactions</li>
-<li>Manage accounts and support</li>
-<li>Communicate with users</li>
-<li>Improve services</li>
-<li>Prevent fraud and ensure security</li>
-<li>Comply with legal obligations</li>
-</ul>
-</section>
+---
 
-<section>
-<h2>Sharing of Information</h2>
-<p>We may share data with service providers like Shopify, payment processors, and shipping companies. We do not sell your personal data.</p>
-</section>
+## **How We Use Your Information**
 
-<section>
-<h2>International Data Transfers</h2>
-<p>Your data may be processed in other countries with appropriate safeguards.</p>
-</section>
+We use your personal information to:
 
-<section>
-<h2>Data Retention</h2>
-<p>We retain personal data only as long as necessary for legal and operational purposes.</p>
-</section>
+- Process and fulfill orders  
+- Manage accounts and provide support  
+- Communicate updates and responses  
+- Improve and optimize our Services  
+- Detect and prevent fraud or misuse  
+- Comply with legal and regulatory obligations  
 
-<section>
-<h2>Your Rights</h2>
-<p>You may request access, correction, deletion, or restriction of your personal data.</p>
-</section>
+---
 
-<section>
-<h2>Security</h2>
-<p>We use appropriate security measures, but no system is 100% secure.</p>
-</section>
+## **Sharing of Information**
 
-<section>
-<h2>Changes to This Policy</h2>
-<p>We may update this policy and will notify users when required.</p>
-</section>
+We may share information with:
+- Shopify  
+- Payment processors  
+- Shipping providers  
+- IT and analytics services  
 
-<section>
-<h2>Contact Us</h2>
-<p>
-<strong>Transmed</strong><br>
-Email: customer.service@transmed.com<br>
-Address: Al Quoz, 22nd Street, Dubai, UAE
-</p>
-</section>
+We **do not sell or rent** your personal information.
 
-</body>
-</html>
+All service providers operate under strict confidentiality and security agreements.
+
+---
+
+## **International Data Transfers**
+
+Your information may be transferred or processed outside your country of residence with appropriate safeguards as required by law.
+
+---
+
+## **Data Retention**
+
+We retain personal data only for as long as necessary to:
+- Fulfill transactions  
+- Provide support  
+- Maintain business records  
+- Comply with laws  
+- Resolve disputes  
+- Enforce agreements  
+
+Afterwards, data is securely deleted or anonymized.
+
+---
+
+## **Your Rights**
+
+Depending on applicable laws, you may request:
+- Access to your data  
+- Correction or updates  
+- Deletion or restriction  
+- Data portability  
+- Withdrawal of consent  
+
+Requests will be handled within legal timeframes.
+
+---
+
+## **Security**
+
+We apply technical and organizational security measures to protect your personal information. However, no system is completely secure.
+
+---
+
+## **Changes to This Policy**
+
+We may update this Privacy Policy from time to time. Updated versions will be published with a revised “Last updated” date. Material changes may be communicated through in‑app notifications.
+
+---
+
+## **Contact Us**
+
+**Transmed**  
+Email: customer.service@transmed.com  
+Address: Al Quoz, 22nd Street, Dubai, United Arab Emirates  
